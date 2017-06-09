@@ -3,5 +3,9 @@
 远程修改
 
 
+<<<<<<< Updated upstream
 fix a bug
 fix two bug
+=======
+fix a bug
+>>>>>>> Stashed changes
